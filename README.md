@@ -1,5 +1,7 @@
-- 线索及投稿：<a href="mailto:sz.better2020@hotmail.com>sz.better2020@hotmail.com</a>
-- 本文仅做事实记录，不收录个人情绪类文字。
+- 线索及投稿： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
+- 本文仅做事实记录，不收录个人情绪类文字，不收录未经证实的传言。
+
+![](img/address.png)
 
 ## 背景
 
