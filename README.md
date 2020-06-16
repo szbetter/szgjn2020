@@ -1,6 +1,7 @@
 - 线索及投稿： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
-- 本文仅做事实记录，不收录个人情绪类文字，不收录未经证实的传言。
-
+	- 本文仅做事实记录，不收录个人情绪类文字，不收录未经证实的传言。
+	- 本文有侵权之处，请邮件告知。
+- 分享本文：
 ![](img/address.png)
 
 ## 背景
@@ -150,6 +151,12 @@
 ### 6.10（周三）
 
 - 早上8:30开始，财富广场有近百名家长聚集，并拉起来横幅，同时在财富广场小区内聚集、唱国歌，大概持续了2h。
+
+![](img/IMG_20200610_082500.jpg)
+
+<video id="video" controls="" preload="none" >
+<source id="mp4" src="video/20200610.mp4" type="video/mp4">
+</video>
 
 ### 6.11（周四）
 
