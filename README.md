@@ -29,10 +29,11 @@
     - 既然是早早提出，为什么在5.29（5.28两会结束）、初验最后一天突然执行。
     - 深高级和教育局都知道此事，为什么没有任何通知、公示。
     - 为什么特意提出千万豪宅 —— 此言论被群众们形容为“拥抱白富美、抛弃老破小、嫌贫爱富、甚至劫贫济富”，引起网络广泛关注。
-视频链接：
+    - 视频链接：
+        - [积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
+        - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
+
 ![](img/rFGj93z2y_ZXt2mnf9OX6Q.png)
-[积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
-[校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 
 ### 6.1（周一）
 
@@ -98,6 +99,7 @@
 - 媒体
 	- 陆晖律师公众号：深高南学位事件如何破局
 - 相继有家长收到短信：
+
 ![](img/gew_tVxjgoVr0KbdEc2VQQ.jpeg)
 ![](img/QxaapFxbKcMYbnqQMtURxA.jpeg)
 
