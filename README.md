@@ -1,4 +1,4 @@
-- 线索及投稿：sz.better2020@hotmail.com
+- 线索及投稿：<a href="mailto:sz.better2020@hotmail.com>sz.better2020@hotmail.com</a>
 - 本文仅做事实记录，不收录个人情绪类文字。
 
 ## 背景
