@@ -155,10 +155,6 @@
 
 ![](img/IMG_20200610_082500.jpg)
 
-<video id="video" controls="" preload="none" >
-<source id="mp4" src="video/20200610.mp4" type="video/mp4">
-</video>
-
 ### 6.11（周四）
 
 - 福田教育局宣布从6.12-6.18在财富广场3f接访一周。
