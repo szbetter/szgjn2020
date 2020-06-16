@@ -89,7 +89,16 @@
 - 规自局
     - 上午，有家长再次前往要求规自局出具6.1承诺给出的土地性质证明文件，但得到昨晚有小偷在规自局偷盗，导致资料无法提供。
     - 下午，多个小区业主在规自局咨询“6.1提交的土地性质查询回复”的事情，最终规自局、教育局、政法委等多部门联合接访了5个小区的5位代表，并表达了把今年上学问题先解决，积分和土地性质再讨论的意见。
+
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="voice/20200604_gzj01.m4a">
+</audio>
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="voice/20200604_gzj02.m4a">
+</audio>
+
 - 报名系统的状态当晚又被修改为待初审
+
 ![](img/lEKguZLvs4Cd4OwtOv3wow.png)
 
 ### 6.5（周五）
