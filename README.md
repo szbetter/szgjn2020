@@ -1,7 +1,7 @@
-- 线索及投稿： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
-	- 本文仅做事实记录，不收录个人情绪类文字，不收录未经证实的传言。
+- 爆料与投稿： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
+	- 本文仅做事实记录，不收录未经证实的传言，不收录个人情绪类文字。
 	- 本文有侵权之处，请邮件告知。
-- 分享本文：
+- 本文分享链接：
 
 ![](img/address.png)
 
@@ -18,6 +18,11 @@
 ### 6.16（周二）
 
 - 下午2:00开始，个别业主/家长继续前往福田区教育局咨询问题，至16:00左右，达到近50名业主/家长，最终教育局答应接访5位代表，其他被要求离开。5位代表后称：对于代表提问的程序正当、同区同策等问题，接访的文局均不予回答，仅念了公文，**继续坚称“没有改变规则，按土地性质划分”—— 家长对与区教育局沟通出结果已基本绝望，称这种接访领导为复读机**。
+- 某业主录制了自己对此事件的诉求
+
+<p align=center><audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_1.m4a"></audio></p>
+
+<p align=center><audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_2.m4a"></audio></p>
 
 ### 6.15（周一）
 
@@ -29,8 +34,8 @@
 
 ### 6.13（周六）
 
-- 下午：安华管理处接访组的消息在小区内传播，家长来了十多位，接访组表达了一些信息：
-    - 总结整理家长诉求然后向上递交，但未做任何承诺。
+- 下午：接访组进驻安华管理处的消息在小区内传播，家长来了十多位，接访组转达了一些信息：
+    - 会总结整理家长诉求，然后向上递交，但未做任何承诺。
     - 某坚决不告知姓名和职位的领导声称：**降级政策全市执行！对昨天其他街道办的不降级承诺不予认可。—— 家长们再次跌入深渊。**
 - 小道消息：晚上，有人告知周三财富事件后，有若干家长被训诫和5-7天的限制——待求证。
 - 媒体：
@@ -117,20 +122,15 @@
     - **全区执行**
     - **重新梳理中、小学积分**  —— 无疑是重磅炸弹。
 
-<audio id="audio" controls="" preload="none">
-<source id="mp3" src="voice/20200604_1.mp3">
-</audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_1.mp3"></audio>
 
 - 规自局
     - 上午，有家长再次前往要求规自局出具6.1承诺给出的土地性质证明文件，但得到昨晚有小偷在规自局偷盗，导致资料无法提供。
     - 下午，多个小区业主在规自局咨询“6.1提交的土地性质查询回复”的事情，最终规自局、教育局、政法委等多部门联合接访了5个小区的5位代表，并表达了把今年上学问题先解决，积分和土地性质再讨论的意见。
 
-<audio id="audio" controls="" preload="none">
-<source id="mp3" src="voice/20200604_gzj01.m4a">
-</audio>
-<audio id="audio" controls="" preload="none">
-<source id="mp3" src="voice/20200604_gzj02.m4a">
-</audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj01.m4a"></audio>
+
+<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj02.m4a"></audio>
 
 - 报名系统的状态当晚又被修改为待初审
 
