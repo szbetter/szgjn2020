@@ -38,11 +38,8 @@
 
 <audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200615_dixinyuan.gai.fangchanzheng.mp3"></audio>
 
-![](img/dixinyuan.jpeg)
+[![](img/dixinyuan-320.jpeg "点击图片查看大图")](img/dixinyuan.jpeg)
 
-- 竹林香岭社区发出2封申请函，申请将教科院并入深高级
-
-![](img/0615_zhulin.shenqing-1.jpeg)
 ![](img/0615_zhulin.shenqing-2.jpeg)
 
 ### 6.14（周日）
