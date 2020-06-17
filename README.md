@@ -20,9 +20,9 @@
 - 下午2:00开始，个别业主/家长继续前往福田区教育局咨询问题，至16:00左右，达到近50名业主/家长，最终教育局答应接访5位代表，其他被要求离开。5位代表后称：对于代表提问的程序正当、同区同策等问题，接访的文局均不予回答，仅念了公文，**继续坚称“没有改变规则，按土地性质划分”—— 家长对与区教育局沟通出结果已基本绝望，称这种接访领导为复读机**。
 - 某业主录制了自己对此事件的诉求
 
-<p align=center><audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_1.m4a"></audio></p>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_1.m4a"></audio>
 
-<p align=center><audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_2.m4a"></audio></p>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_2.m4a"></audio>
 
 ### 6.15（周一）
 
