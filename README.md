@@ -193,8 +193,8 @@
 - 媒体：
 	- 10:53 财新网微博：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》。
 	- 22:30 广东电视台：《新闻追踪：深圳福田区通报“跪求学位”事件》。
-	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营.png)
-	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-一波三折的深高南学位事件，什么是真正的公平.png)
+	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
 
 ### 6.14（周日）
 
