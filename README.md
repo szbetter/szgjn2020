@@ -15,17 +15,19 @@
 	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接（已和谐）]()、[截图](media/0609_xueweizhishang.png)
 	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
 - 5.31：
-    - 深圳卫视-第一现场：[积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)、[校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
+    - 深圳卫视-第一现场：
+        - [积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
+        - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 
 ## 时间线
 
 ### 6.16（周二）
 
 - 下午2:00开始，个别业主/家长继续前往福田区教育局咨询问题，至16:00左右，达到近50名业主/家长，最终教育局答应接访5位代表，其他被要求离开。5位代表后称：对于代表提问的程序正当、同区同策等问题，接访的文局均不予回答，仅念了公文，**继续坚称“没有改变规则，按土地性质划分”—— 家长对与区教育局沟通出结果已基本绝望，称这种接访领导为复读机**。
-- 某业主录制了自己对此事件的诉求
+- 某业主发出了对教育局的檄文
 
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_1.m4a"></audio>
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_2.m4a"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200616_205842_1_1.m4a"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200616_205842_1_2.m4a"></audio>
 
 ### 6.15（周一）
 
@@ -126,14 +128,14 @@
     - **全区执行**
     - **重新梳理中、小学积分**  —— 无疑是重磅炸弹。
 
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_1.mp3"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200604_1.mp3"></audio>
 
 - 规自局
     - 上午，有家长再次前往要求规自局出具6.1承诺给出的土地性质证明文件，但得到昨晚有小偷在规自局偷盗，导致资料无法提供。
     - 下午，多个小区业主在规自局咨询“6.1提交的土地性质查询回复”的事情，最终规自局、教育局、政法委等多部门联合接访了5个小区的5位代表，并表达了把今年上学问题先解决，积分和土地性质再讨论的意见。
 
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj01.m4a"></audio>
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj02.m4a"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200604_gzj01.m4a"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200604_gzj02.m4a"></audio>
 
 - 报名系统的状态当晚又被修改为待初审
 
