@@ -3,9 +3,9 @@
 ## 纪监委举报
 
 - 中央纪委：
-    - 网上举报: [电脑版（http://www.12388.gov.cn）](http://www.12388.gov.cn)、[手机版（http://www.12388.gov.cn/mx）](http://www.12388.gov.cn/mx) 
-        - 广东省纪委监委 -- 深圳市 -- [福田区](https://guangdong.12388.gov.cn/shenzhenshi/futianqu/) —— **重点**
-        - 广东省纪监委派驻机构 -- [省教育厅](https://guangdong.12388.gov.cn/pzjg/sjyu/) —— **重点**
+    - 网上举报: [电脑版](http://www.12388.gov.cn)、[手机版](http://www.12388.gov.cn/mx) 
+        - 广东省纪委监委 -- 深圳市 -- [福田区](https://guangdong.12388.gov.cn/shenzhenshi/futianqu/) —— **请直达重点**
+        - 广东省纪监委派驻机构 -- [省教育厅](https://guangdong.12388.gov.cn/pzjg/sjyu/) —— **请直达重点**
 - 广东省纪监委（南粤清风）：
     - 网上举报： [http://www.gdjct.gd.gov.cn](http://www.gdjct.gd.gov.cn/r/cms/jjw/xfjb/jbyd.html)
     - 邮箱举报： <a href="mailto:nyqfw@gd.gov.cn">nyqfw@gd.gov.cn</a>

@@ -1,7 +1,7 @@
 - 爆料与咨询： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
 	- 本文仅做事实记录，不收录未经证实的传言，不收录个人情绪类文字。
 	- 本文有侵权之处，请邮件告知。
-- 维权途径说明与整理： [纪监委举报、信访、行政复议](./take.my.right.html)
+- 维权途径整理： [纪监委举报、信访、行政复议等](./take.my.right.html)
 - 本文分享链接：
 
 ![](img/address.png)
@@ -34,7 +34,16 @@
 ### 6.15（周一）
 
 - 多位家长打电话咨询福田教育局，回复说：**今年房产认定恩积分修改只针对深高南，明后年的政策“未知”。—— 不仅严重侵犯高级南5小区的合法权益，还给福田区其他小区埋下了严重隐患。**
-- 
+- 缔馨园小区（土地用途：商业；房屋用途：单身公寓）可以办理房产证变更 —— **公然的“同区不同策”让人浮想联翩**
+
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200615_dixinyuan.gai.fangchanzheng.mp3"></audio>
+
+![](img/dixinyuan.jpeg)
+
+- 竹林香岭社区发出2封申请函，申请将教科院并入深高级
+
+![](img/0615_zhulin.shenqing-1.jpeg)
+![](img/0615_zhulin.shenqing-2.jpeg)
 
 ### 6.14（周日）
 
