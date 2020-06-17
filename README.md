@@ -10,7 +10,8 @@
 - 6.13：
     - 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
     - 《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
-
+- 5.31：
+    - 深圳卫视-第一现场：[积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)、[校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 
 ## 时间线
 
@@ -21,7 +22,6 @@
 - 某业主录制了自己对此事件的诉求
 
 <audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_1.m4a"></audio>
-
 <audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_2.m4a"></audio>
 
 ### 6.15（周一）
@@ -81,10 +81,10 @@
 ### 6.9（周二）
 
 - 媒体
-	- 风财经：《深圳学区风波背后：一场迟到的土地与学位供应紧缺》
-	- 《深高南学位风波的危险信号》—— 已和谐
-	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》——已和谐
-	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》
+	- 《深高南学位风波的危险信号》[原文链接（已和谐）]()、[截图](media/0609_weixianxinhao.png)
+	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接（已和谐）]()、[截图](media/0609_xueweizhishang.png)
+	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
+	- 风财经：《深圳学区风波背后：一场迟到的土地与学位供应紧缺》[原文链接](https://shanghai.louxun.com/toutiao/detail-2540355123809502215.html)
 
 ### 6.8（周一）
 
@@ -100,6 +100,7 @@
 
 - 下午，社区工作人员陪同记者在多个相关小区走访，问了一些：搬过来多久了、户口落在哪里……基础问题，没有有深度的问题和沟通。
 - 媒体
+    - 陆晖律师：《深高南学位事件如何破局》[原文链接](https://mp.weixin.qq.com/s/upyaAKgWCO1A1e7we_D7iw)、[截图](media/0607_ruhepoju.png)
 	- 广东电视台给予了4分钟的报道
 
 ![](img/0.jpeg)
@@ -129,7 +130,6 @@
     - 下午，多个小区业主在规自局咨询“6.1提交的土地性质查询回复”的事情，最终规自局、教育局、政法委等多部门联合接访了5个小区的5位代表，并表达了把今年上学问题先解决，积分和土地性质再讨论的意见。
 
 <audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj01.m4a"></audio>
-
 <audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj02.m4a"></audio>
 
 - 报名系统的状态当晚又被修改为待初审
@@ -153,6 +153,7 @@
 
 - 晚上，社区10+人团队在各个小区查居住。
 - 深夜，21位今年报名的家长接到电话，被统一要求参加第二天早上的约谈。
+- 
 
 ### 6.2（周二）
 
@@ -161,6 +162,10 @@
     - 首先国土局的某领导宣读了一份未发布的函件，表达了工业用地没有配套学位的笼统观点，宣读完后随即离开。
     - 然后田局独讲，着力描述了自己在福田教育中的付出和业绩，最后强调了工业用地没有配套学位的观点，但对涉及家长关心的积分等实质内容、对家长提问的同房不同策、同区不同策等问题均不予以回应。
     - 家长们简单总结就是：**由于深高级初中部学位紧张，学区内土地性质为工业、商业的住宅类市场商品房被踢出一类（80）积分**。
+- 媒体
+    - 湾区经济评论：《深圳中浪的哭泣》[虎嗅链接](https://m.huxiu.com/article/360356.html)、[网易财经链接](https://money.163.com/20/0602/14/FE4HABHE00259DLP.html)、[截图](media/0602_zhonglangdekuqi.png)
+    - 房掌柜：《400多万的学区房不配上深高？》[乐居链接](https://news.leju.com/2020-06-02/6673391224667553275.shtml)、[截图](media/0602_400duowan.png)
+    - 深圳商用地产资讯：《深高学位之争，教育资源分配机制缺失，千万房产才能上？》
 
 ### 6.1（周一）
 
@@ -193,6 +198,9 @@
         - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 
 ![](img/rFGj93z2y_ZXt2mnf9OX6Q.png)
+
+- 媒体
+    - 米宅珠三角：《深高南事件继续发酵，业主准备集体诉讼》[原文链接](https://mp.weixin.qq.com/s/Jr5OwPkUdF__G6cj2G6dpg)、[截图](media/0531_jixufajiao.png)
 
 ### 5.30（周六）
 
