@@ -40,7 +40,10 @@
 
 [![](img/dixinyuan-320.jpeg "点击图片查看大图")](img/dixinyuan.jpeg)
 
-![](img/0615_zhulin.shenqing-2.jpeg)
+- 竹林香岭社区发出2封申请函，申请将教科院并入深高级
+
+[![](img/0615_zhulin.shenqing-1-320.jpeg "点击图片查看大图")](img/0615_zhulin.shenqing-1.jpeg)
+[![](img/0615_zhulin.shenqing-2-320.jpeg "点击图片查看大图")](img/0615_zhulin.shenqing-2.jpeg)
 
 ### 6.14（周日）
 
@@ -89,9 +92,9 @@
 
 - 早上8:30开始，财富广场有近百名家长聚集，并拉起来横幅，同时在财富广场小区内聚集、唱国歌，大概持续了2h。
 
-![](img/IMG_20200610_082500.jpg)
+[![](img/IMG_20200610_082500-480.jpg "点击图片查看大图")](img/IMG_20200610_082500.jpg)
 
-![](img/Xnip2020-06-17_01-13-09.jpg)
+[![](img/Xnip2020-06-17_01-13-09-480.jpg "点击图片查看大图")](img/Xnip2020-06-17_01-13-09.jpg)
 
 ### 6.9（周二）
 
