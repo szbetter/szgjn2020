@@ -193,13 +193,13 @@
 - 媒体：
 	- 10:53 财新网微博：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》。
 	- 22:30 广东电视台：《新闻追踪：深圳福田区通报“跪求学位”事件》。
-	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、![截图](media/0613-深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营.png)
-	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、![截图](media/0613-一波三折的深高南学位事件，什么是真正的公平.png)
+	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营.png)
+	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-一波三折的深高南学位事件，什么是真正的公平.png)
 
 ### 6.14（周日）
 
 - 媒体
-	- 《深高南学位问题过程暴露福田区教育局长田洪明涉嫌多项纪律问题》 [原文链接(已和谐)](https://www.meipian9.cn/2zxluuly?share_depth=2&user_id=ohbsluMU0XU4OlRuflQRF1T0BvEA&sharer_id=ojq1ttyc0y47rGW_1AdQgEEz7uEk&first_share_to=&first_share_uid=ohbsluBWUr-7YtTFufuPJ80FZg3M&share_source=timeline&from=groupmessage&isappinstalled=0)、![截图]()
+	- 《深高南学位问题过程暴露福田区教育局长田洪明涉嫌多项纪律问题》 [原文链接(已和谐)](https://www.meipian9.cn/2zxluuly?share_depth=2&user_id=ohbsluMU0XU4OlRuflQRF1T0BvEA&sharer_id=ojq1ttyc0y47rGW_1AdQgEEz7uEk&first_share_to=&first_share_uid=ohbsluBWUr-7YtTFufuPJ80FZg3M&share_source=timeline&from=groupmessage&isappinstalled=0)、[截图]()
 
 
 ### 6.15（周一）
