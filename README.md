@@ -14,17 +14,23 @@
     - [#深圳部分学位房遭降级#](https://s.weibo.com/weibo?q=%23深圳部分学位房遭降级%23)
     - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已屏蔽
 - 媒体
-    - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+    - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+    - 6.8，每日经济新闻：[《深度|还原深高南学位房争议的216小时》](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
     - 5.31，深圳卫视-第一现场：
         - [积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
         - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 - 自媒体
-    - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
-    - 6.9，朱罗纪：《深高南学位风波的危险信号》[原文链接（已和谐）]()、[截图](media/0609_weixianxinhao.png)
-	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
-	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
+    - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[原文](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
+    - 6.12，朱罗纪：《阅读理解：教育部门的通报》[原文（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
+    - 6.9，朱罗纪：《深高南学位风波的危险信号》[原文（已和谐）]()、[截图](media/0609_weixianxinhao.png)
+	- 6.9，刘子孺：刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
+	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
 
 ## 时间线
+
+### 6.17（周三）
+
+- 哈林顿88 ：[《到底深南学位事件的产生根源是什么》](https://weibo.com/ttarticle/p/show?id=2309404516778033152350#_0)、[截图](media/0617_genyuan.png)
 
 ### 6.16（周二）
 
@@ -51,7 +57,7 @@
 ### 6.14（周日）
 
 - 媒体
-	- 《深高南学位问题过程暴露福田区教育局长田洪明涉嫌多项纪律问题》 [原文链接(已和谐)](https://www.meipian9.cn/2zxluuly?share_depth=2&user_id=ohbsluMU0XU4OlRuflQRF1T0BvEA&sharer_id=ojq1ttyc0y47rGW_1AdQgEEz7uEk&first_share_to=&first_share_uid=ohbsluBWUr-7YtTFufuPJ80FZg3M&share_source=timeline&from=groupmessage&isappinstalled=0)、[截图]()
+	- 《深高南学位问题过程暴露福田区教育局长田洪明涉嫌多项纪律问题》 [原文（已和谐）](https://www.meipian9.cn/2zxluuly?share_depth=2&user_id=ohbsluMU0XU4OlRuflQRF1T0BvEA&sharer_id=ojq1ttyc0y47rGW_1AdQgEEz7uEk&first_share_to=&first_share_uid=ohbsluBWUr-7YtTFufuPJ80FZg3M&share_source=timeline&from=groupmessage&isappinstalled=0)、[截图]()
 
 ### 6.13（周六）
 
@@ -60,10 +66,10 @@
     - 某坚决不告知姓名和职位的领导声称：**降级政策全市执行！对昨天其他街道办的不降级承诺不予认可。—— 家长们再次跌入深渊。**
 - 小道消息：晚上，有人告知周三财富事件后，有若干家长被训诫和5-7天的限制——待求证。
 - 媒体：
-	- 10:53 财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文链接](http://www.caixin.com/2020-06-13/101566785.html)、[微博链接](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)。
+	- 10:53 财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文](http://www.caixin.com/2020-06-13/101566785.html)、[微博链接](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)。
 	- 22:30 广东电视台：《新闻追踪：深圳福田区通报“跪求学位”事件》[视频链接](http://v.gdtv.cn/zj/jrgz/2020-06-13/2427125.html)。
-	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
-	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
+	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
 
 
 ### 6.12（周五）
@@ -74,7 +80,7 @@
 	- 有人在炒作
 	- 整顿行业乱象
 - 多篇文章逐一批驳了官宣中的4点，如：
-	- 朱罗纪：《阅读理解：教育部门的通报》
+	- 朱罗纪：《阅读理解：教育部门的通报》[原文（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
 - 官宣文章引起轩然大波，下午，财富广场和华强北大量家长聚集，据传有街道办领导对公众喊话：
 	- 今年政策不变，仍是80分。
 	- 网站报名系统的房屋分类改回5.29前模样。
@@ -85,7 +91,7 @@
 - 晚上群里有人提到，街道办接访小组除了财富，也在安华等其他小区管理处开始部署，前日深夜已开始逐个敲门，单独约见。—— 这种接访方式也够特别了，不通知、不公告，深夜敲个别人（初步猜测是只敲了今年报名家庭）的门，单独、逐个接访 —— 这是喝茶约谈，还是接访？
 
 - 媒体
-    - 《深高南学位积分引关注，福田区教育局答复人大代表》[原文链接](https://new.qq.com/omn/20200612/20200612A073RH00.html)、[截图](media/0612-rendadaibiao.png)
+    - 《深高南学位积分引关注，福田区教育局答复人大代表》[原文](https://new.qq.com/omn/20200612/20200612A073RH00.html)、[截图](media/0612-rendadaibiao.png)
 
 ### 6.11（周四）
 
@@ -102,26 +108,27 @@
 ### 6.9（周二）
 
 - 媒体
-	- 《深高南学位风波的危险信号》[原文链接（已和谐）]()、[截图](media/0609_weixianxinhao.png)
-	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
-	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
-	- 风财经：《深圳学区风波背后：一场迟到的土地与学位供应紧缺》[原文链接](https://shanghai.louxun.com/toutiao/detail-2540355123809502215.html)
+	- 朱罗纪：《深高南学位风波的危险信号》[原文（已和谐）]()、[截图](media/0609_weixianxinhao.png)
+	- 刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
+	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
+	- 风财经：《深圳学区风波背后：一场迟到的土地与学位供应紧缺》[原文](https://shanghai.louxun.com/toutiao/detail-2540355123809502215.html)
 
 ### 6.8（周一）
 
 - 部分安华、泰然的家长继续请假前往市教育局、区教育局咨询，但没有得到任何结果。
-- 媒体
-	- 陆晖律师公众号：深高南学位事件如何破局
 - 相继有家长收到短信：
 
 ![](img/gew_tVxjgoVr0KbdEc2VQQ.jpeg)
 ![](img/QxaapFxbKcMYbnqQMtURxA.jpeg)
 
+- 媒体
+    - 每日经济新闻：[《深度|还原深高南学位房争议的216小时》](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
+
 ### 6.7（周日）
 
 - 下午，社区工作人员陪同记者在多个相关小区走访，问了一些：搬过来多久了、户口落在哪里……基础问题，没有有深度的问题和沟通。
 - 媒体
-    - 陆晖律师：《深高南学位事件如何破局》[原文链接](https://mp.weixin.qq.com/s/upyaAKgWCO1A1e7we_D7iw)、[截图](media/0607_ruhepoju.png)
+    - 陆晖律师：《深高南学位事件如何破局》[原文](https://mp.weixin.qq.com/s/upyaAKgWCO1A1e7we_D7iw)、[截图](media/0607_ruhepoju.png)
 	- 广东电视台给予了4分钟的报道
 
 ![](img/0.jpeg)
@@ -221,7 +228,7 @@
 ![](img/rFGj93z2y_ZXt2mnf9OX6Q.png)
 
 - 媒体
-    - 米宅珠三角：《深高南事件继续发酵，业主准备集体诉讼》[原文链接](https://mp.weixin.qq.com/s/Jr5OwPkUdF__G6cj2G6dpg)、[截图](media/0531_jixufajiao.png)
+    - 米宅珠三角：《深高南事件继续发酵，业主准备集体诉讼》[原文](https://mp.weixin.qq.com/s/Jr5OwPkUdF__G6cj2G6dpg)、[截图](media/0531_jixufajiao.png)
 
 ### 5.30（周六）
 
