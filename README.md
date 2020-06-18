@@ -28,6 +28,17 @@
 
 ## 时间线
 
+### 6.18（周四）
+
+- 媒体
+    - 香港有线进行了报道
+
+![](media/0618_hkyouxian.jpg)
+
+- 收录
+    - 《通深圳市民对福田区所谓通告的几点疑问》[微博](https://weibo.com/1196289772/J6AF5okye?type=repost)、[截图](img/474deeecgy1gfrr3sfqhcj20x13w97wh.jpg)
+    - 《谈一谈学位房与人口、户籍和住房之间的勾稽关系》[微博](https://weibo.com/2359484705/J6IVpFV8l?type=repost#_rnd1592523069210)、[截图](img/8ca2e121ly1gfsrlorf93j20l08qh1ky.jpg)
+
 ### 6.17（周三）
 
 - 哈林顿88 ：[《到底深南学位事件的产生根源是什么》](https://weibo.com/ttarticle/p/show?id=2309404516778033152350#_0)、[截图](media/0617_genyuan.png)
