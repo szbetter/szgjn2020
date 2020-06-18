@@ -1,9 +1,11 @@
-- 爆料与投稿： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
+- 爆料与咨询： <a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
 	- 本文仅做事实记录，不收录未经证实的传言，不收录个人情绪类文字。
 	- 本文有侵权之处，请邮件告知。
+- 维权途径整理： [纪监委举报、信访、行政复议等](./take.my.right.html)
 - 本文分享链接：
 
 ![](img/address.png)
+
 
 ## 推荐阅读
 
@@ -19,20 +21,33 @@
 	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接（已和谐）]()、[截图](media/0609_xueweizhishang.png)
 	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
 - 5.31：
-    - 深圳卫视-第一现场：[积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)、[校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
+    - 深圳卫视-第一现场：
+        - [积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
+        - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 
 ## 时间线
 
 ### 6.16（周二）
 
 - 下午2:00开始，个别业主/家长继续前往福田区教育局咨询问题，至16:00左右，达到近50名业主/家长，最终教育局答应接访5位代表，其他被要求离开。5位代表后称：对于代表提问的程序正当、同区同策等问题，接访的文局均不予回答，仅念了公文，**继续坚称“没有改变规则，按土地性质划分”—— 家长对与区教育局沟通出结果已基本绝望，称这种接访领导为复读机**。
-- 某业主录制了自己对此事件的诉求
+- 某业主发出了对教育局的檄文
 
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_1.m4a"></audio>
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200616_205842_1_2.m4a"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200616_205842_1_1.mp3"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200616_205842_1_2.mp3"></audio>
 
 ### 6.15（周一）
 
+- 多位家长打电话咨询福田教育局，回复说：**今年房产认定恩积分修改只针对深高南，明后年的政策“未知”。—— 不仅严重侵犯高级南5小区的合法权益，还给福田区其他小区埋下了严重隐患。**
+- 缔馨园小区（土地用途：商业；房屋用途：单身公寓）可以办理房产证变更 —— **公然的“同区不同策”让人浮想联翩**
+
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200615_dixinyuan.gai.fangchanzheng.mp3"></audio>
+
+[![](img/dixinyuan-320.jpeg "点击图片查看大图")](img/dixinyuan.jpeg)
+
+- 竹林香岭社区发出2封申请函，申请将教科院并入深高级
+
+[![](img/0615_zhulin.shenqing-1-320.jpeg "点击图片查看大图")](img/0615_zhulin.shenqing-1.jpeg)
+[![](img/0615_zhulin.shenqing-2-320.jpeg "点击图片查看大图")](img/0615_zhulin.shenqing-2.jpeg)
 
 ### 6.14（周日）
 
@@ -81,9 +96,9 @@
 
 - 早上8:30开始，财富广场有近百名家长聚集，并拉起来横幅，同时在财富广场小区内聚集、唱国歌，大概持续了2h。
 
-![](img/IMG_20200610_082500.jpg)
+[![](img/IMG_20200610_082500-480.jpg "点击图片查看大图")](img/IMG_20200610_082500.jpg)
 
-![](img/Xnip2020-06-17_01-13-09.jpg)
+[![](img/Xnip2020-06-17_01-13-09-480.jpg "点击图片查看大图")](img/Xnip2020-06-17_01-13-09.jpg)
 
 ### 6.9（周二）
 
@@ -130,14 +145,14 @@
     - **全区执行**
     - **重新梳理中、小学积分**  —— 无疑是重磅炸弹。
 
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_1.mp3"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200604_1.mp3"></audio>
 
 - 规自局
     - 上午，有家长再次前往要求规自局出具6.1承诺给出的土地性质证明文件，但得到昨晚有小偷在规自局偷盗，导致资料无法提供。
     - 下午，多个小区业主在规自局咨询“6.1提交的土地性质查询回复”的事情，最终规自局、教育局、政法委等多部门联合接访了5个小区的5位代表，并表达了把今年上学问题先解决，积分和土地性质再讨论的意见。
 
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj01.m4a"></audio>
-<audio id="audio" controls="" preload="none"><source id="mp3" src="voice/20200604_gzj02.m4a"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200604_gzj01.mp3"></audio>
+<audio id="audio" controls="" preload="none"><source id="mp3" src="audio/20200604_gzj02.mp3"></audio>
 
 - 报名系统的状态当晚又被修改为待初审
 
