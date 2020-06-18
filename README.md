@@ -23,7 +23,7 @@
     - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[原文](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
     - 6.12，朱罗纪：《阅读理解：教育部门的通报》[原文（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
     - 6.9，朱罗纪：《深高南学位风波的危险信号》[原文（已和谐）]()、[截图](media/0609_weixianxinhao.png)
-	- 6.9，刘子孺：刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
+	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
 	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
 
 ## 时间线
