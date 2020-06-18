@@ -13,17 +13,16 @@
     - [#深圳深高南事件扑朔迷离#](https://s.weibo.com/weibo?q=%23深圳深高南事件扑朔迷离%23)
     - [#深圳部分学位房遭降级#](https://s.weibo.com/weibo?q=%23深圳部分学位房遭降级%23)
     - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已屏蔽
-- 6.13：
-    - 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
-    - 《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
-- 6.9：
-	- 《深高南学位风波的危险信号》[原文链接（已和谐）]()、[截图](media/0609_weixianxinhao.png)
-	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接（已和谐）]()、[截图](media/0609_xueweizhishang.png)
-	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
-- 5.31：
-    - 深圳卫视-第一现场：
+- 媒体
+    - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文链接](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+    - 5.31，深圳卫视-第一现场：
         - [积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
         - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
+- 自媒体
+    - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[原文链接](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
+    - 6.9，朱罗纪：《深高南学位风波的危险信号》[原文链接（已和谐）]()、[截图](media/0609_weixianxinhao.png)
+	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
+	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
 
 ## 时间线
 
@@ -104,7 +103,7 @@
 
 - 媒体
 	- 《深高南学位风波的危险信号》[原文链接（已和谐）]()、[截图](media/0609_weixianxinhao.png)
-	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接（已和谐）]()、[截图](media/0609_xueweizhishang.png)
+	- 《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文链接](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
 	- 房网：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文链接](http://bbs.szhome.com/30-20001-detail-177813581.html)
 	- 风财经：《深圳学区风波背后：一场迟到的土地与学位供应紧缺》[原文链接](https://shanghai.louxun.com/toutiao/detail-2540355123809502215.html)
 

@@ -31,3 +31,10 @@
 - [《中华人民共和国行政复议法（1999）》](http://www.gov.cn/banshi/2005-08/21/content_25100.htm)
 - [《中华人民共和国行政复议法实施条例（2007）》](http://www.gov.cn/flfg/2007-06/08/content_641926.htm)
 - [百度百科](https://baike.baidu.com/item/中华人民共和国行政复议法/656119)
+
+## 政务公开
+
+- 《中华人民共和国政府信息公开条例》: 
+    - [中华人民共和国国务院令-第492号(2007)](http://www.gov.cn/zhengce/content/2008-03/28/content_1734.htm) —— 首版
+    - [中华人民共和国国务院令-第711号(2019)](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm) —— 修订版
+
