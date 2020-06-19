@@ -7,12 +7,12 @@
 ![](img/address.png)
 
 
-## 推荐阅读
+## 置顶阅读
 
 - 微博超话
     - [#深圳深高南事件扑朔迷离#](https://s.weibo.com/weibo?q=%23深圳深高南事件扑朔迷离%23)
     - [#深圳部分学位房遭降级#](https://s.weibo.com/weibo?q=%23深圳部分学位房遭降级%23)
-    - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已和谐
+    - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已和谐    
 - 媒体
     - 6.18，香港有线电视
     - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
