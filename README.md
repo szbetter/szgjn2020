@@ -34,8 +34,9 @@
 ### 6.19（周五）
 
 - 媒体&自媒体
+    - 证券时报：《单身公寓被拒贷？“深高南学位之争”后续：12万评估价骤降至9万》[凤凰网](https://finance.ifeng.com/c/7xQQLcBf2Gm)、[截图](media/0619_judai.png)
     - 舍或得：《单身公寓打响了深圳住房革命的第二枪》[公众号](https://mp.weixin.qq.com/s/FKBicjzRxrLTmx7LvL3rOQ?)、[截图](media/0619_dierqiang.png)
-    - 《从事物分类法，谈一谈深圳发生“指鹿为马”的可能性》[微博](https://weibo.com/ttarticle/p/show?id=2309404517301322907918)、[截图](media/0618_zhiluweima.png)
+    - 中教投研：《从事物分类法，谈一谈深圳发生“指鹿为马”的可能性》[微博](https://weibo.com/ttarticle/p/show?id=2309404517301322907918)、[截图](media/0618_zhiluweima.png)
 - 收录
     - 网友整理的多段录音：[【福田区入学积分】住宅类公寓业主诉求录音](https://www.meipian.cn/2zyzkljv?mina_from=1)
 
