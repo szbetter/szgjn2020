@@ -22,10 +22,10 @@
         - 校方回应：学位紧张引发调整 如何定性还未决定 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 - 自媒体
     - 6.18，刘子孺：《再说深高南学位问题-依法才是行政本意》[微博](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
-    - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[原文](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
-    - 6.12，朱罗纪：《阅读理解：教育部门的通报》[原文（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
-    - 6.9，朱罗纪：《深高南学位风波的危险信号》[原文（已和谐）]()、[截图](media/0609_weixianxinhao.png)
-	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[原文](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
+    - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[公众号](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
+    - 6.12，朱罗纪：《阅读理解：教育部门的通报》[公众号（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
+    - 6.9，朱罗纪：《深高南学位风波的危险信号》[公众号（已和谐）]()、[截图](media/0609_weixianxinhao.png)
+	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[微博](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
 	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
 
 ## 时间线
@@ -33,7 +33,7 @@
 ### 6.19（周五）
 
 - 媒体&自媒体
-    - 《从事物分类法，谈一谈深圳发生“指鹿为马”的可能性》[微博原文](https://weibo.com/ttarticle/p/show?id=2309404517301322907918)、[截图](media/0618_zhiluweima.png)
+    - 《从事物分类法，谈一谈深圳发生“指鹿为马”的可能性》[微博](https://weibo.com/ttarticle/p/show?id=2309404517301322907918)、[截图](media/0618_zhiluweima.png)
 
 ### 6.18（周四）
 
@@ -51,7 +51,7 @@
     - 刘子孺：《再说深高南学位问题-依法才是行政本意》[微博原文](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
     - 香港有线进行了报道
 
-![](media/0618_hkyouxian.jpg)
+[![](img/0618_hkyouxian-480.jpg)](img/0618_hkyouxian.jpg)
 
 - 补录
     - 6.14，《深圳市民对福田区所谓通告的几点疑问》[微博](https://weibo.com/1196289772/J6AF5okye?type=repost)、[截图](img/474deeecgy1gfrr3sfqhcj20x13w97wh.jpg)
