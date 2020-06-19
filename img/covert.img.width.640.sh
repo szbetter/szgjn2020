@@ -13,8 +13,8 @@ identify $1 | awk '{
         print cmd
         system(cmd)
     }
-    if(width > 480){
-        cmd="convert -resize 480 "fb"."ft" "fb"-480."ft;
+    if(width > 320){
+        cmd="convert -resize 320 "fb"."ft" "fb"-320."ft;
         print cmd
         system(cmd)
     }
