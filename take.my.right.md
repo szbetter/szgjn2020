@@ -2,9 +2,9 @@
 
 渠道和方式很多，每种方式推荐一个重点（根据耗时和复杂度排序）：
 
-1. 申请[福田区教育局](http://ysq.sz.gov.cn/citizenform.jsp?aType=0&depid=284)政务公开 —— 每次大概需要5分钟，建议每天都做一下，填报内容可参考下文。
-2. 向[福田区省纪检委](https://guangdong.12388.gov.cn/shenzhenshi/futianqu/)举报、并向[省纪检委驻省教育厅](https://guangdong.12388.gov.cn/pzjg/sjyu/)举报 —— 大概需10分钟。
-3. 向[国家投诉受理办公室](http://wsxf.gjxfj.gov.cn/zfp/webroot_app/login.html?from=groupmessage&isappinstalled=0)信访 —— 大概需20分钟。
+1. 申请[福田区教育局](http://ysq.sz.gov.cn/citizenform.jsp?aType=0&depid=284)政务公开，填报内容可参考下文 —— 每次大概需要5分钟，建议每天做一次。
+2. 向[福田区省纪检委](https://guangdong.12388.gov.cn/shenzhenshi/futianqu/)举报、并向[省纪检委驻省教育厅](https://guangdong.12388.gov.cn/pzjg/sjyu/)举报 —— 大概需10分钟，建议每3天做一次。
+3. 向[国家投诉受理办公室](http://wsxf.gjxfj.gov.cn/zfp/webroot_app/login.html?from=groupmessage&isappinstalled=0)信访 —— 大概需20分钟，建议每周做一次。
 4. 撰写《行政复议》并当面投递或邮寄到下面地址，并注明 **行政复议申请书**
     - 收件人地址：深圳市福田区市民中心C区二层2093，教育局政策法规处，电话 88125630/82661331。
     - 邮寄前可致电法规处王先生（13692240170）确认信息。

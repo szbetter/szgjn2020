@@ -22,7 +22,7 @@
         - 积分入学遇难题 一类生源变三类 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
         - 校方回应：学位紧张引发调整 如何定性还未决定 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 - 自媒体
-    - 6.18，刘子孺：《再说深高南学位问题-依法才是行政本意》[微博](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
+    - 6.18，刘子孺：《再说深高南学位问题-依法才是行政本意》[微博（无法查看）](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
     - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[公众号](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
     - 6.12，朱罗纪：《阅读理解：教育部门的通报》[公众号（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
     - 6.9，朱罗纪：《深高南学位风波的危险信号》[公众号（已和谐）]()、[截图](media/0609_weixianxinhao.png)
@@ -35,6 +35,8 @@
 
 - 媒体&自媒体
     - 《从事物分类法，谈一谈深圳发生“指鹿为马”的可能性》[微博](https://weibo.com/ttarticle/p/show?id=2309404517301322907918)、[截图](media/0618_zhiluweima.png)
+- 收录
+    - 网友整理的多段录音：[【福田区入学积分】住宅类公寓业主诉求录音](https://www.meipian.cn/2zyzkljv?mina_from=1)
 
 ### 6.18（周四）
 
