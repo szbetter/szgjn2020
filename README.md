@@ -30,11 +30,13 @@
 
 ### 6.18（周四）
 
-- 《福田区现状工业区分区划定》（征求意见稿）于6.15发布，被多家媒体和自媒体报道和讨论，**此次降积分事件背后的逻辑逐步浮出水面**。
-    - [关于《福田区现状工业区分区划定》（征求意见稿）方案的公示](http://www.szft.gov.cn/bmxx/qcsgxj/tzgg/content/post_7794142.html)、[截图](img/0615_zhengqiuyijiangao.png)、[附件1：福田区工业区保留提升范围图.pdf](http://www.szft.gov.cn/attachment/0/681/681260/7794142.pdf)、[附件2：福田区工业区连片改造升级范围图.pdf](http://www.szft.gov.cn/attachment/0/681/681261/7794142.pdf)
-    - [《旧改快讯-福田现状工业区分区划定方案出炉：车公庙片区成首批连片改造试点》](https://mp.weixin.qq.com/s/2eTRFc7WI9sjLlM0OQYUAQ)
-    - [《最新！意见稿出炉，车公庙片区将连片改造》](https://mp.weixin.qq.com/s/-oaoAByhEjhMM3_8uHrKxw)
-    - 要点：**福田区连片改造升级范围全部位于车公庙片区，安华和泰然在改造范围内，泰康轩、泰安轩不在。**
+- 《福田区现状工业区分区划定》（征求意见稿）于6.15发布，被多家媒体和自媒体报道。
+    - 关于《福田区现状工业区分区划定》（征求意见稿）方案的公示：[官网链接](http://www.szft.gov.cn/bmxx/qcsgxj/tzgg/content/post_7794142.html)、[截图](img/0615_zhengqiuyijiangao.png)
+        - 附件1：福田区工业区保留提升范围图：[pdf](http://www.szft.gov.cn/attachment/0/681/681260/7794142.pdf)
+        - 附件2：福田区工业区连片改造升级范围图：[pdf](http://www.szft.gov.cn/attachment/0/681/681261/7794142.pdf)
+    - 《旧改快讯-福田现状工业区分区划定方案出炉：车公庙片区成首批连片改造试点》[原文](https://mp.weixin.qq.com/s/2eTRFc7WI9sjLlM0OQYUAQ)
+    - 《最新！意见稿出炉，车公庙片区将连片改造》[原文](https://mp.weixin.qq.com/s/-oaoAByhEjhMM3_8uHrKxw)
+    - 要点：**福田区连片改造升级范围全部位于车公庙片区，安华和泰然在改造范围内，泰康轩、泰安轩不在。——此次降积分事件背后的逻辑逐步浮出水面**
 
 [![](img/Xnip2020-06-19_08-15-33-480.jpg)](img/Xnip2020-06-19_08-15-33.jpg)
 
