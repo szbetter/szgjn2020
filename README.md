@@ -14,12 +14,14 @@
     - [#深圳部分学位房遭降级#](https://s.weibo.com/weibo?q=%23深圳部分学位房遭降级%23)
     - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已屏蔽
 - 媒体
-    - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
-    - 6.8，每日经济新闻：[《还原深高南学位房争议的216小时》](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
+    - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+    - 6.13，财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文](http://www.caixin.com/2020-06-13/101566785.html)、[微博](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)、[截图](media/0613_zaozhuzhaiyezhutousu.jpg)
+    - 6.8，每日经济新闻：《还原深高南学位房争议的216小时》[原文](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
     - 5.31，深圳卫视-第一现场：
-        - [积分入学遇难题 一类生源变三类](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
-        - [校方回应：学位紧张引发调整 如何定性还未决定](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
+        - 积分入学遇难题 一类生源变三类 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
+        - 校方回应：学位紧张引发调整 如何定性还未决定 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 - 自媒体
+    - 6.18，刘子孺：《再说深高南学位问题-依法才是行政本意》[微博](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
     - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[原文](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
     - 6.12，朱罗纪：《阅读理解：教育部门的通报》[原文（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
     - 6.9，朱罗纪：《深高南学位风波的危险信号》[原文（已和谐）]()、[截图](media/0609_weixianxinhao.png)
@@ -27,6 +29,11 @@
 	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
 
 ## 时间线
+
+### 6.19（周五）
+
+- 媒体&自媒体
+    - 《从事物分类法，谈一谈深圳发生“指鹿为马”的可能性》[微博原文](https://weibo.com/ttarticle/p/show?id=2309404517301322907918)、[截图](media/0618_zhiluweima.png)
 
 ### 6.18（周四）
 
@@ -40,15 +47,15 @@
 
 [![](img/Xnip2020-06-19_08-15-33-480.jpg)](img/Xnip2020-06-19_08-15-33.jpg)
 
-- 媒体
-    - 刘子孺：《再说深高南学位问题-依法才是行政本意》[原文](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)
+- 媒体&自媒体
+    - 刘子孺：《再说深高南学位问题-依法才是行政本意》[微博原文](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
     - 香港有线进行了报道
 
 ![](media/0618_hkyouxian.jpg)
 
-- 收录
-    - 《深圳市民对福田区所谓通告的几点疑问》[微博](https://weibo.com/1196289772/J6AF5okye?type=repost)、[截图](img/474deeecgy1gfrr3sfqhcj20x13w97wh.jpg)
-    - 《谈一谈学位房与人口、户籍和住房之间的勾稽关系》[微博](https://weibo.com/2359484705/J6IVpFV8l?type=repost#_rnd1592523069210)、[截图](img/8ca2e121ly1gfsrlorf93j20l08qh1ky.jpg)
+- 补录
+    - 6.14，《深圳市民对福田区所谓通告的几点疑问》[微博](https://weibo.com/1196289772/J6AF5okye?type=repost)、[截图](img/474deeecgy1gfrr3sfqhcj20x13w97wh.jpg)
+    - 6.15，《谈一谈学位房与人口、户籍和住房之间的勾稽关系》[微博](https://weibo.com/2359484705/J6IVpFV8l?type=repost#_rnd1592523069210)、[截图](img/8ca2e121ly1gfsrlorf93j20l08qh1ky.jpg)
 
 ### 6.17（周三）
 
@@ -87,8 +94,18 @@
     - 会总结整理家长诉求，然后向上递交，但未做任何承诺。
     - 某坚决不告知姓名和职位的领导声称：**降级政策全市执行！对昨天其他街道办的不降级承诺不予认可。—— 家长们再次跌入深渊。**
 - 小道消息：晚上，有人告知周三财富事件后，有若干家长被训诫和5-7天的限制——待求证。
+- 流出一份疑似政府内部对多个部门口径指导的文件，重点包括
+    - 10个涉访公寓（宿舍）最终认定情况：3个80分，其他70或64分。
+    - 新建豪宅也在深高级是历史原因。—— **20多年的历史不认，才几年的历史认的倒挺清。**
+    - 限购限贷与房屋用途关联，与土地性质无关，所以与学位也无挂钩。
+    - 一事一议、一房一判断、一人一回复 —— **这么大的自由度！令人惊愕！**
+
+点击打开4页完整大图：
+
+[![](img/0613_dafuzhiyin_crop-320.jpg)](img/0613_dafuzhiyin.jpg)
+
 - 媒体：
-	- 10:53 财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文](http://www.caixin.com/2020-06-13/101566785.html)、[微博链接](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)。
+	- 10:53 财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文](http://www.caixin.com/2020-06-13/101566785.html)、[微博链接](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)、[截图](media/0613_zaozhuzhaiyezhutousu.jpg)
 	- 22:30 广东电视台：《新闻追踪：深圳福田区通报“跪求学位”事件》[视频链接](http://v.gdtv.cn/zj/jrgz/2020-06-13/2427125.html)。
 	- 23:33 华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博链接](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
 	- 米宅珠三角公众号：《一波三折的深高南学位事件，什么是真正的公平？》[原文](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)

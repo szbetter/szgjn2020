@@ -9,7 +9,7 @@ identify $1 | awk '{
     ft=fs[length(fs)]; 
     gsub("."ft"$","",fb);
     if(width > 960){
-        cmd="convert -resize 960 "fb"."ft" "fb"."ft;
+        cmd="convert -resize 960 "fb"."ft" "fb"-960."ft;
         print cmd
         system(cmd)
     }
