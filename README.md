@@ -12,8 +12,9 @@
 - 微博超话
     - [#深圳深高南事件扑朔迷离#](https://s.weibo.com/weibo?q=%23深圳深高南事件扑朔迷离%23)
     - [#深圳部分学位房遭降级#](https://s.weibo.com/weibo?q=%23深圳部分学位房遭降级%23)
-    - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已屏蔽
+    - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已和谐
 - 媒体
+    - 6.18，香港有线电视
     - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
     - 6.13，财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文](http://www.caixin.com/2020-06-13/101566785.html)、[微博](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)、[截图](media/0613_zaozhuzhaiyezhutousu.jpg)
     - 6.8，每日经济新闻：《还原深高南学位房争议的216小时》[原文](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
@@ -37,8 +38,8 @@
 
 ### 6.18（周四）
 
-- 《福田区现状工业区分区划定》（征求意见稿）于6.15发布，被多家媒体和自媒体报道。
-    - 关于《福田区现状工业区分区划定》（征求意见稿）方案的公示：[官网链接](http://www.szft.gov.cn/bmxx/qcsgxj/tzgg/content/post_7794142.html)、[截图](img/0615_zhengqiuyijiangao.png)
+- **《福田区现状工业区分区划定》（征求意见稿）**于6.15发布，被多家媒体和自媒体报道。
+    - 官网公示：[链接](http://www.szft.gov.cn/bmxx/qcsgxj/tzgg/content/post_7794142.html)、[截图](img/0615_zhengqiuyijiangao.png)
         - 附件1：福田区工业区保留提升范围图：[pdf](http://www.szft.gov.cn/attachment/0/681/681260/7794142.pdf)
         - 附件2：福田区工业区连片改造升级范围图：[pdf](http://www.szft.gov.cn/attachment/0/681/681261/7794142.pdf)
     - 《旧改快讯-福田现状工业区分区划定方案出炉：车公庙片区成首批连片改造试点》[原文](https://mp.weixin.qq.com/s/2eTRFc7WI9sjLlM0OQYUAQ)
