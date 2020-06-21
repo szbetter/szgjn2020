@@ -29,6 +29,16 @@
 	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[微博](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
 	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
 
+## 常用链接
+
+- [深圳市规划和自然资源局（规自局）](http://pnr.sz.gov.cn)
+    - [政府信息公开](http://pnr.sz.gov.cn/gkmlpt/index)
+    - [不动产登记中心](http://www.szreorc.com)
+        - [不动产资料查询](https://www.szreorc.com:8443/szbdc-vweb/notes) —— **含不动产交易时土地&房屋用途**
+        - [地籍查询](http://pnr.sz.gov.cn/d-djtcx/djtcx/index.html) —— **查当前土地用途**
+    - [深圳市法定图则](http://pnr.sz.gov.cn/ywzy/fdtz/) 
+        - [福田区图则发布](http://pnr.sz.gov.cn/ywzy/fdtz/cggbcx/ftq/index.html) —— **查规划土地用途**
+
 ## 时间线
 
 ### 6.21（周日）
