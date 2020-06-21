@@ -1,0 +1,20 @@
+
+- 微博超话
+    - [#深圳深高南事件扑朔迷离#](https://s.weibo.com/weibo?q=%23深圳深高南事件扑朔迷离%23)
+    - [#深圳部分学位房遭降级#](https://s.weibo.com/weibo?q=%23深圳部分学位房遭降级%23)
+    - [#深圳深高南学位风波#](https://s.weibo.com/weibo?q=%23深圳深高南学位风波%23) —— 已和谐    
+- 媒体
+    - 6.18，香港有线电视
+    - 6.13，华夏时报：《深高南学位之争：临入学却因房屋属性被“踢出”学区房阵营》[原文](https://www.chinatimes.net.cn/article/97659.html)、[微博](https://weibo.com/1838672663/J6vntiQIG?type=comment#_rnd1592358755074)、[截图](media/0613-shen.gao.xue.wei.zhi.zheng.png)
+    - 6.13，财新：《遭住宅业主投诉，深圳公寓业主子女小升初入学资格降级》[原文](http://www.caixin.com/2020-06-13/101566785.html)、[微博](https://weibo.com/1663937380/J6qeED3Q8?ref=collection&type=comment#_rnd1592362318674)、[截图](media/0613_zaozhuzhaiyezhutousu.jpg)
+    - 6.8，每日经济新闻：《还原深高南学位房争议的216小时》[原文](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
+    - 5.31，深圳卫视-第一现场：
+        - 积分入学遇难题 一类生源变三类 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
+        - 校方回应：学位紧张引发调整 如何定性还未决定 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
+- 自媒体
+    - 6.18，刘子孺：《再说深高南学位问题-依法才是行政本意》[微博（无法查看）](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
+    - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[公众号](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
+    - 6.12，朱罗纪：《阅读理解：教育部门的通报》[公众号（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
+    - 6.9，朱罗纪：《深高南学位风波的危险信号》[公众号（已和谐）]()、[截图](media/0609_weixianxinhao.png)
+	- 6.9，刘子孺：《深高南学位之殇-不是不同意改革，而是不同意耍流氓似的改革》[微博](https://weibo.com/ttarticle/p/show?id=2309404513904922329285#_0)、[截图](media/0609_xueweizhishang.png)
+	- 6.9，vincentwubo：《我查了福田1570个地块，发现这50个地块/楼盘若申请深高南可能也会卡在土地用途上》[原文](http://bbs.szhome.com/30-20001-detail-177813581.html)
