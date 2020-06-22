@@ -24,7 +24,7 @@
 1. 微博出现了 [#深圳福田下架四百多套房源#](https://s.weibo.com/weibo?q=%23深圳福田下架四百多套房源%23) 超话 —— 不敢评论。
 2. 风口浪尖的8个小区中已被通过的3个小区，房价在中介猛烈飙升，比如 [深圳有小区成交价出现2万/平跳涨](https://mp.weixin.qq.com/s/juRov7EXpchKOW_HCdGBcw) 提到竹园小区 —— 不予评论。
 
-![](img/0620_zhuyuandazhang-480.jpeg)
+![](img/0620_zhuyuandazhang-320.jpeg)
 
 ### 6.19（周五）
 
