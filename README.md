@@ -1,4 +1,4 @@
-- 爆料、咨询、勘误：<a href="mailto:sz.better2020@hotmail.com">sz.better2020@hotmail.com</a>
+- 爆料、咨询、勘误：<a href="mailto:szbetter2020@protonmail.com">szbetter2020@protonmail.com</a>
 	- 本文仅做事实记录，不收录未经证实的传言，不收录个人情绪类文字。
 	- 本文有侵权之处，请邮件告知。
 - 本文分享链接：
@@ -7,7 +7,7 @@
 
 ## 置顶信息
 
-- [媒体报道：推荐阅读](./media.html) —— 掌握事件来龙去脉、各方观点
+- [媒体报道：推荐阅读](./media.html) —— 掌握事件来龙去脉、各方观点。
 - [必备技能：查地籍、查图则等](./gov.link.html) —— 深圳买学位房如履薄冰，如何防范最终解释权。
 - [维权途径：纪监委举报、信访、行政复议等](./take.my.right.html) —— 不希望走到这一步，但有时不得已。
 
