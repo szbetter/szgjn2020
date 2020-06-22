@@ -169,8 +169,8 @@
 - 部分安华、泰然的家长继续请假前往市教育局、区教育局咨询，但没有得到任何结果。
 - 相继有家长收到短信：
 
-![](img/gew_tVxjgoVr0KbdEc2VQQ.jpeg)
-![](img/QxaapFxbKcMYbnqQMtURxA.jpeg)
+![](img/gew_tVxjgoVr0KbdEc2VQQ-300.jpeg)
+![](img/QxaapFxbKcMYbnqQMtURxA-300.jpeg)
 
 - 媒体
     - 每日经济新闻：[《深度-还原深高南学位房争议的216小时》](http://www.nbd.com.cn/articles/2020-06-08/1443881.html)、[截图](media/0608_shenduhuanyuan.png)
