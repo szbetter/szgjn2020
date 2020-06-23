@@ -12,6 +12,7 @@
         - 积分入学遇难题 一类生源变三类 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188827.shtml)
         - 校方回应：学位紧张引发调整 如何定性还未决定 [视频](http://static.scms.sztv.com.cn/ysz/dsdb/dspd/dyxc/78188825.shtml)
 - 自媒体
+    - 6.23，陆晖律师: 《关于深高南学位“认定标准”的几点思考》[微博](https://weibo.com/ttarticle/p/show?id=2309404519112427569990)、[截图](media/0623_rendingbiaozhun.png)
     - 6.18，刘子孺：《再说深高南学位问题-依法才是行政本意》[微博（无法查看）](https://card.weibo.com/article/m/show/id/2309404517288786133257?_wb_client_=1)、[截图](media/0618_xingzhengbenyi.jpg)
     - 6.13，米宅：《一波三折的深高南学位事件，什么是真正的公平？》[公众号](https://mp.weixin.qq.com/s/bJByYYvUw1rjDCht4ql5ow)、[截图](media/0613-yi.bo.san.zhe.png)
     - 6.12，朱罗纪：《阅读理解：教育部门的通报》[公众号（已和谐）]()、[截图](media/0612_yuedulijie.jpg)
