@@ -28,4 +28,7 @@ identify $1 | awk -v outsize=$2 '{
         cmd="convert -resize "outsize" "fb"."ft" "fb"-"outsize"."ft;
         print cmd; system(cmd);
     }
+
+    print "------"
+    system("ls -l "fb"*")
 }'
