@@ -266,7 +266,7 @@
     - 陆晖律师：《深高南学位事件如何破局》[原文](https://mp.weixin.qq.com/s/upyaAKgWCO1A1e7we_D7iw)、[截图](media/0607_ruhepoju.png)
 	- 广东电视台给予了4分钟的报道
 
-![](img/0.jpeg)
+![](img/0607_guangdongTV.jpeg)
 
 ### 6.6（周六）（第9天）
 
@@ -313,7 +313,7 @@
 
 <center>点击查看大图</center>
 
-[![](img/i2hJdUylDmjhLG9Klub4eA-320.png  "点击图片查看大图")](img/i2hJdUylDmjhLG9Klub4eA.png) 
+[![](img/i2hJdUylDmjhLG9Klub4eA-480.png  "点击图片查看大图")](img/i2hJdUylDmjhLG9Klub4eA.png) 
 
 - 晚上，社区10+人团队在各个小区查居住。
 - 深夜，21位今年报名的家长接到电话，被统一要求参加第二天早上的约谈。
