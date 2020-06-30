@@ -32,7 +32,7 @@
 
 ### 6.30 - 周二 - 第33天
 
-<center style="font:blod;">本站暂停更新</center>
+<center style="font-weight:blod">本站暂停更新</center></div>
 
 事已至此，节哀顺变。
 
