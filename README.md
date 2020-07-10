@@ -39,7 +39,7 @@
 
 <center style="font-weight:bold">体恤民情</center>
 <center style="font-weight:bold">心系教育</center>
-<center style="font-weight:bold">主持正义</center>
+<center style="font-weight:bold">匡扶正义</center>
 
 
 ### 6.30 - 周二 - 第33天
